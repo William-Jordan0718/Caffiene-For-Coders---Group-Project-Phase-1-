@@ -1,0 +1,109 @@
+{
+    "students": [
+      {
+        "id": "1",
+        "name": "Tyler",
+        "about"
+        "picture": "https://www.gstatic.com/tv/thumb/v22vodart/2157/p2157_v_v8_ab.jpg",
+        "likes": 0
+      },
+      {
+        "id": "2",
+        "name": "William",
+        "about": "",
+        "picture": "",
+        "likes": 12
+      },
+      {
+        "id": "3",
+        "name": "Shannone",
+        "about": "",
+        "picture": "",
+        "likes": 12
+      },
+      {
+        "id": "4",
+        "name": "Jasmine",
+        "about": "",
+        "picture": "",
+        "likes": 12
+      },
+      {
+        "id": "5",
+        "name": "Renae",
+        "about": "",
+        "picture": "",
+        "likes": 12
+      },
+      {
+        "id": "6",
+        "name": "Joanna",
+        "about": "",
+        "picture": "",
+        "likes": 12
+      },
+      {
+        "id": "7",
+        "name": "Matt E.",
+        "about": "",
+        "picture": "",
+        "likes": 12
+      },
+      {
+        "name": "Caleb",
+        "about": "",
+        "picture": "",
+        "likes": 12
+      },
+      {
+        "id": "9",
+        "name": "Kenneth",
+        "about": "",
+        "picture": "",
+        "likes": 12
+      },
+      {
+        "id": "10",
+        "name": "Ben",
+        "about": "",
+        "picture": "",
+        "likes": 12
+      },
+      {
+        "id": "11",
+        "name": "Alberto",
+        "about": "",
+        "picture": "",
+        "likes": 12
+      },
+      {
+        "id": "12",
+        "name": "Ismael",
+        "about": "",
+        "picture": "",
+        "likes": 12
+      },
+      {
+        "id": "13",
+        "name": "Matthew L.",
+        "about": "",
+        "picture": "",
+        "likes": 12
+      },
+      {
+        "id": "14",
+        "name": "Richard",
+        "about": "",
+        "picture": "",
+        "likes": 12
+      },
+      {
+        "id": "15",
+        "name": "Davis",
+        "about": "",
+        "picture": "",
+        "likes": 12
+      }
+    ]
+  }
+  
