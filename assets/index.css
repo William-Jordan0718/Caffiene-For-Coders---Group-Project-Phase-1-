@@ -1,8 +1,45 @@
 * {
+  padding: 0;
   margin: 0;
   font-family: Arial, Helvetica, sans-serif;
   box-sizing: border-box;
 }
+
+/* header css start */
+.main-header {
+  border-bottom: 2px solid gainsboro;
+  padding: 20px;
+}
+
+.main-header {
+  display: inline-block;
+}
+
+.main-header-element  {
+  display: inline-block;
+}
+
+.flatiron-logo {
+  height: 50px;
+  position: relative;
+  top: 10px;
+  left: 10px;
+}
+
+.header-link {
+  position: relative;
+  bottom: 12px;
+  left: 20px;
+  top: 12px;
+  letter-spacing: 2px;
+  font-size: 12.5px;
+  text-decoration: none;
+  font-weight: 800;
+  color: black;
+  text-transform: uppercase;
+  margin: 10px;
+}
+/* header css end */
 
 body {
   padding: 1rem;
@@ -14,12 +51,6 @@ body {
   align-items: center;
 }
 
-header {
-  padding: 0.5rem;
-  width: 100%;
-  color: white;
-  background-color: black;
-}
 
 #students {
   display: flex;

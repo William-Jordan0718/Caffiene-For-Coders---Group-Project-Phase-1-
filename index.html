@@ -4,13 +4,19 @@
 <head>
   <meta charset="utf-8" />
   <title>Caffeine for Coders</title>
-  <link rel="stylesheet" type="text/css" href="index.html" />
+  <link rel="stylesheet" type="text/css" href="assets\index.css" />
   <script defer type="text/javascript" src="index.js"></script>
 </head>
 
 <body>
-  <header>
-    <h3>Caffeine for Coders</h3>
+  <header class="main-header">
+    <a href="#" class="main-header-element"><img class="flatiron-logo" src="images\flatiron-logo-sm.png" alt="Flatiron Logo"/></a>
+    
+    <nav class="header-link">
+      <a href="https://flatironschool.com/our-courses/">Donate Now</a>
+      <a href="index.html#form-anchor">Join Us</a>
+    </nav>
+
   </header>
 
   <!-- Students -->
@@ -20,26 +26,31 @@
 
   <!-- Student Details -->
   <div id="student-detail">
+    <br>
     <img class="student-image" src="" alt="Insert Image Here" />
-    <h2 class="name">Insert Name Here</h2>
-    <h3 class="about">Insert About Here</h3>
+    <br>
+    <h2 class="name">name</h2>
+    <h3 class="about">about</h3>
   </div>
 
-    <h3>Likes</h3>
+  <br>
+  <br>
+  <br>
+    <!-- <h4>likes</h4>
   <p>
     <span id='likes-display'>Insert likes here</span>
-  </p>
+  </p> -->
 
   <!-- New Student Form -->
   <form id="new-student">
-    <h4>What's Your Name?</h4>
+    <h4 id="form-anchor">JOIN OUR COHORT</h4>
     <label for="name">Name: </label>
     <input type="text" name="name" id="new-name" />
     <label for="image">Image: </label>
     <input type="text" name="image" id="new-image" />
     <label for="new-comment">Comment: </label>
     <textarea name="new-comment" id="new-comment"></textarea>
-    <input type="submit" value="Create" />
+    <input type="submit" value="SUBMIT" />
   </form>
 
 </body>
