@@ -21,34 +21,33 @@ header {
   background-color: black;
 }
 
-#ramen-menu {
+#students {
   display: flex;
   overflow-x: auto;
   margin: 1rem 0;
   max-width: calc(100vw - 2rem);
 }
 
-#ramen-menu img {
+#students img {
   flex: 0 1 auto;
   height: 150px;
   margin-right: 0.5rem;
   cursor: pointer;
 }
 
-#ramen-menu img:last-child {
+#students img:last-child {
   margin-right: 0;
 }
 
-#ramen-detail {
+#student-detail {
   position: relative;
 }
 
-.detail-image {
+.student-image {
   height: 350px;
 }
 
-.name,
-.restaurant {
+.name {
   position: absolute;
   left: 10px;
   padding: 0.25rem 5rem 0.25rem 1rem;
@@ -57,10 +56,6 @@ header {
 
 .name {
   bottom: 60px;
-}
-
-.restaurant {
-  bottom: 20px;
 }
 
 form {

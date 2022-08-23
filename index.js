@@ -27,6 +27,10 @@ function renderDetails(student) {
   const name = document.querySelector('.name')
   name.textContent = student.name
 
+  //add student about section
+  const about = document.querySelector('.about')
+  about.textContent = student.about
+
   // add the likes
   const likes = document.querySelector('#likes-display')
   likes.textContent = student.likes

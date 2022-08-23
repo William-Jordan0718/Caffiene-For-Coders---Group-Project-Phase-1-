@@ -1,101 +1,94 @@
 {
-    "students": [
-      {
-        "id": "1",
-        "name": "Tyler",
-        "about"
-        "image": "https://www.gstatic.com/tv/thumb/v22vodart/2157/p2157_v_v8_ab.jpg",
-        "likes": 0
-      },
-      {
-        "id": "2",
-        "name": "William",
-        "about": "",
-        "image": "",
-        "likes": 12
-      },
-      {
-        "id": "3",
-        "name": "Shannone",
-        "about": "",
-        "image": "",
-        "likes": 12
-      },
-      {
-        "id": "4",
-        "name": "Jasmine",
-        "about": "",
-        "image": "",
-        "likes": 12
-      },
-      {
-        "id": "5",
-        "name": "Renae",
-        "about": "",
-        "image": "",
-        "likes": 12
-      },
-      {
-        "id": "6",
-        "name": "Joanna",
-        "about": "",
-        "image": "",
-        "likes": 12
-      },
-      {
-        "id": "7",
-        "name": "Matt E.",
-        "about": "",
-        "image": "",
-        "likes": 12
-      },
-      {
-        "name": "Caleb",
-        "about": "",
-        "image": "",
-        "likes": 12
-      },
-      {
-        "id": "9",
-        "name": "Kenneth",
-        "about": "",
-        "image": "",
-        "likes": 12
-      },
-      {
-        "id": "10",
-        "name": "Ben",
-        "about": "",
-        "image": "",
-        "likes": 12
-      },
-      {
-        "id": "11",
-        "name": "Alberto",
-        "about": "",
-        "image": "",
-        "likes": 12
-      },
-      {
-        "id": "12",
-        "name": "Ismael",
-        "about": "",
-        "image": "",
-        "likes": 12
-      },
-      {
-        "id": "13",
-        "name": "Matthew L.",
-        "about": "",
-        "image": "",
-        "likes": 12
-      },
-      {
-        "id": "14",
-        "name": "Richard",
-        "about": "",
-        "image": "",
-        "likes": 12
-      }
-    ]
+  "students": [
+    {
+      "id": "1",
+      "name": "Tyler",
+      "about": "Our fearless leader!",
+      "image": "https://i.imgflip.com/2fm6x.jpg",
+      "likes": 15
+    },
+    {
+      "id": "2",
+      "name": "William",
+      "about": "Joining you all from California...",
+      "image": "https://i.imgflip.com/2fm6x.jpg",
+      "likes": 12
+    },
+    {
+      "id": "3",
+      "name": "Shannone",
+      "about": "I love coffee, cats and obnoxiously loud music!",
+      "image": "https://i.imgflip.com/2fm6x.jpg",
+      "likes": 12
+    },
+    {
+      "id": "4",
+      "name": "Jasmine",
+      "about": "I have 2 son ages 6 & 8 and they are very high energy lol but somehow I make it!",
+      "image": "https://i.imgflip.com/2fm6x.jpg",
+      "likes": 12
+    },
+    {
+      "id": "5",
+      "name": "Renae",
+      "about": "I hate touching cotton balls as it makes my skin crawl.",
+      "image": "https://i.imgflip.com/2fm6x.jpg",
+      "likes": 12
+    },
+    {
+      "id": "6",
+      "name": "Joanna",
+      "about": "I've had 9 lives. Coding will be 10.",
+      "image": "https://i.imgflip.com/2fm6x.jpg",
+      "likes": 12
+    },
+    {
+      "id": "7",
+      "name": "Matt E.",
+      "about": "I'm a huge Jacksonville Jaguars fan, and I love the arts.",
+      "image": "https://i.imgflip.com/2fm6x.jpg",
+      "likes": 12
+    },
+    {
+      "name": "Caleb",
+      "about": " I enjoy the outdoors (Fishing, Hiking, and the beach).",
+      "image": "https://i.imgflip.com/2fm6x.jpg",
+      "likes": 12
+    },
+    {
+      "id": "9",
+      "name": "Kenneth",
+      "about": "",
+      "image": "https://i.imgflip.com/2fm6x.jpg",
+      "likes": 12
+    },
+    {
+      "id": "10",
+      "name": "Ben",
+      "about": "",
+      "image": "https://i.imgflip.com/2fm6x.jpg",
+      "likes": 12
+    },
+    {
+      "id": "11",
+      "name": "Alberto",
+      "about": "",
+      "image": "https://i.imgflip.com/2fm6x.jpg",
+      "likes": 12
+    },
+    {
+      "id": "12",
+      "name": "Ismael",
+      "about": "",
+      "image": "https://i.imgflip.com/2fm6x.jpg",
+      "likes": 12
+    },
+    {
+      "id": "13",
+      "name": "Matthew L.",
+      "about": "",
+      "image": "https://i.imgflip.com/2fm6x.jpg",
+      "likes": 12
+    }
+  ]
 }
