@@ -31,11 +31,6 @@ function renderDetails(student) {
   const about = document.querySelector('.about')
   about.textContent = student.about
 
-  // add the likes
-  const likes = document.querySelector('#likes-display')
-  likes.textContent = student.likes
-}
-
 const newStudentForm = document.querySelector('#new-student')
 
 newStudentForm.addEventListener('submit', (event) => handleFormSubmit(event))
@@ -47,12 +42,12 @@ function handleFormSubmit(event) {
   const studentObject = {
     name: event.target.name.value,
     image: event.target.image.value,
-    comment: event.target["new-comment"].value
+    about: event.target.comment.value
   }
 
   // add the new object to the DOM
   renderNames(studentObject)
 
   // clear the form
-  event.target.reset() // same
-}
+  event.target.reset() 
+}}
