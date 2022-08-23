@@ -1,101 +1,94 @@
 {
-    "students": [
-      {
-        "id": "1",
-        "name": "Tyler",
-        "about"
-        "image": "https://www.gstatic.com/tv/thumb/v22vodart/2157/p2157_v_v8_ab.jpg",
-        "likes": 0
-      },
-      {
-        "id": "2",
-        "name": "William",
-        "about": "",
-        "image": "",
-        "likes": 12
-      },
-      {
-        "id": "3",
-        "name": "Shannone",
-        "about": "",
-        "image": "",
-        "likes": 12
-      },
-      {
-        "id": "4",
-        "name": "Jasmine",
-        "about": "",
-        "image": "",
-        "likes": 12
-      },
-      {
-        "id": "5",
-        "name": "Renae",
-        "about": "",
-        "image": "",
-        "likes": 12
-      },
-      {
-        "id": "6",
-        "name": "Joanna",
-        "about": "",
-        "image": "",
-        "likes": 12
-      },
-      {
-        "id": "7",
-        "name": "Matt E.",
-        "about": "",
-        "image": "",
-        "likes": 12
-      },
-      {
-        "name": "Caleb",
-        "about": "",
-        "image": "",
-        "likes": 12
-      },
-      {
-        "id": "9",
-        "name": "Kenneth",
-        "about": "",
-        "image": "",
-        "likes": 12
-      },
-      {
-        "id": "10",
-        "name": "Ben",
-        "about": "",
-        "image": "",
-        "likes": 12
-      },
-      {
-        "id": "11",
-        "name": "Alberto",
-        "about": "",
-        "image": "",
-        "likes": 12
-      },
-      {
-        "id": "12",
-        "name": "Ismael",
-        "about": "",
-        "image": "",
-        "likes": 12
-      },
-      {
-        "id": "13",
-        "name": "Matthew L.",
-        "about": "",
-        "image": "",
-        "likes": 12
-      },
-      {
-        "id": "14",
-        "name": "Richard",
-        "about": "",
-        "image": "",
-        "likes": 12
-      }
-    ]
+  "students": [
+    {
+      "id": "1",
+      "name": "Tyler",
+      "about": "six-ish words to describe Tyler",
+      "image": "https://i.imgflip.com/1bij.jpg",
+      "likes": 15
+    },
+    {
+      "id": "2",
+      "name": "William",
+      "about": "six-ish words to describe William",
+      "image": "https://i.imgflip.com/2fm6x.jpg",
+      "likes": 12
+    },
+    {
+      "id": "3",
+      "name": "Shannone",
+      "about": "six-ish words to describe Shannone",
+      "image": "https://i.imgflip.com/2fm6x.jpg",
+      "likes": 12
+    },
+    {
+      "id": "4",
+      "name": "Jasmine",
+      "about": "six-ish words to describe Jasmine",
+      "image": "https://i.imgflip.com/2fm6x.jpg",
+      "likes": 12
+    },
+    {
+      "id": "5",
+      "name": "Renae",
+      "about": "six-ish words to describe Renae",
+      "image": "https://i.imgflip.com/2fm6x.jpg",
+      "likes": 12
+    },
+    {
+      "id": "6",
+      "name": "Joanna",
+      "about": "six-ish words to describe Joanna",
+      "image": "https://i.imgflip.com/wxica.jpg",
+      "likes": 12
+    },
+    {
+      "id": "7",
+      "name": "Matt E.",
+      "about": "six-ish words to describe Matt",
+      "image": "https://i.imgflip.com/2fm6x.jpg",
+      "likes": 12
+    },
+    {
+      "name": "Caleb",
+      "about": "six-ish words to describe Caleb",
+      "image": "https://i.imgflip.com/1bhk.jpg",
+      "likes": 12
+    },
+    {
+      "id": "9",
+      "name": "Kenneth",
+      "about": "six-ish words to describe Kenneth",
+      "image": "https://i.imgflip.com/39t1o.jpg",
+      "likes": 12
+    },
+    {
+      "id": "10",
+      "name": "Ben",
+      "about": "six-ish words to describe Ben",
+      "image": "https://i.imgflip.com/26am.jpg",
+      "likes": 12
+    },
+    {
+      "id": "12",
+      "name": "Ismael",
+      "about": "six-ish words to describe Ismael",
+      "image": "https://i.imgflip.com/2fm6x.jpg",
+      "likes": 12
+    },
+    {
+      "id": "11",
+      "name": "Alberto",
+      "about": "six-ish words to describe Alberto",
+      "image": "https://i.imgflip.com/3l60ph.jpg",
+      "likes": 12
+    },
+    {
+      "id": "13",
+      "name": "Matthew L.",
+      "about": "six-ish words to describe Matthew",
+      "image": "https://i.imgflip.com/1e7ql7.jpg",
+      "likes": 12
+    }
+  ]
 }
