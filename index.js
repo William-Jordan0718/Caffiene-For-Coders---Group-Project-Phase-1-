@@ -37,17 +37,17 @@ function renderDetails(student) {
 }
 
 const donationForm = document.querySelector('#donation-form')
-donationForm.addEventListener('submit', (event) => {  
+donationForm.addEventListener('submit', (event) => handleDonationSubmit(event))
+
+function handleDonationSubmit(event) {  
   event.preventDefault()
 
   const userInput = event.target["donation-amount"].value
   currentStudent.donation += parseInt(userInput)
-  userInput.textContent = currentStudent.donation
-
-  console.log(event)
+  document.querySelector('#amount').textContent = currentStudent.donation
 
   event.target.reset()
-})
+}
 
 const newStudentForm = document.querySelector('#new-student')
 newStudentForm.addEventListener('submit', (event) => handleFormSubmit(event))
