@@ -1,14 +1,15 @@
+let currentStudent;
+
 fetch("http://localhost:3000/students")
     .then(response => response.json())
     .then(data => {
-        console.log(data)
     data.forEach(student =>
-        renderNames(student))
+        renderImages(student))
         renderDetails(data[0])
     })
 
-//render student name and image
-function renderNames(student) {
+//render student images
+function renderImages(student) {
   const newImg = document.createElement('img')
   newImg.src = student.image
 
@@ -19,20 +20,36 @@ function renderNames(student) {
 
 //render student details
 function renderDetails(student) {
-  // grab the image to replace
+  currentStudent = student
+
   const img = document.querySelector('.student-image')
   img.src = student.image
 
-  // add the student name
   const name = document.querySelector('.name')
   name.textContent = student.name
 
-  //add student about section
   const about = document.querySelector('.about')
   about.textContent = student.about
 
-const newStudentForm = document.querySelector('#new-student')
+  const donationAmount = document.querySelector('#donation-amount')
+  donationAmount.textContent = student.donation
 
+}
+
+const donationForm = document.querySelector('#donation-form')
+donationForm.addEventListener('submit', (event) => {  
+  event.preventDefault()
+
+  const userInput = event.target["donation-amount"].value
+  currentStudent.donation += parseInt(userInput)
+  userInput.textContent = currentStudent.donation
+
+  console.log(event)
+
+  event.target.reset()
+})
+
+const newStudentForm = document.querySelector('#new-student')
 newStudentForm.addEventListener('submit', (event) => handleFormSubmit(event))
 
 function handleFormSubmit(event) {
@@ -46,8 +63,8 @@ function handleFormSubmit(event) {
   }
 
   // add the new object to the DOM
-  renderNames(studentObject)
+  renderImages(studentObject)
 
   // clear the form
   event.target.reset() 
-}}
+}

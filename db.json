@@ -3,85 +3,99 @@
     {
       "id": "1",
       "name": "Tyler",
-      "about": "six-ish words to describe Tyler",
-      "image": "https://i.imgflip.com/1bij.jpg"
+      "about": "DOWN WITH BIG BUSINESS!",
+      "image": "https://i.imgflip.com/1bij.jpg",
+      "donation": 0
     },
     {
       "id": "2",
       "name": "William",
-      "about": "six-ish words to describe William",
-      "image": "https://i.imgflip.com/2fm6x.jpg"
+      "about": "I LOVE 6AM START TIMES",
+      "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSZUhmLrB8I7yvcCtDiOeFYv0-X_OccwhU8uA&usqp=CAU",
+      "donation": 0
     },
     {
       "id": "3",
       "name": "Shannone",
-      "about": "six-ish words to describe Shannone",
-      "image": "https://i.imgflip.com/2fm6x.jpg"
+      "about": "NEW YORK VIA CALIFORNIA",
+      "image": "https://i.imgflip.com/2fm6x.jpg",
+      "donation": 0
     },
     {
       "id": "4",
       "name": "Jasmine",
       "about": "six-ish words to describe Jasmine",
-      "image": "https://i.imgflip.com/2fm6x.jpg"
+      "image": "https://i.imgflip.com/2fm6x.jpg",
+      "donation": 0
     },
     {
       "id": "5",
       "name": "Renae",
       "about": "six-ish words to describe Renae",
-      "image": "https://i.imgflip.com/2fm6x.jpg"
+      "image": "https://i.imgflip.com/2fm6x.jpg",
+      "donation": 0
     },
     {
       "id": "6",
       "name": "Joanna",
       "about": "six-ish words to describe Joanna",
-      "image": "https://i.imgflip.com/wxica.jpg"
+      "image": "https://i.imgflip.com/wxica.jpg",
+      "donation": 0
     },
     {
       "id": "7",
       "name": "Matt E.",
       "about": "six-ish words to describe Matt",
-      "image": "https://i.imgflip.com/2fm6x.jpg"
+      "image": "https://i.imgflip.com/2fm6x.jpg",
+      "donation": 0
     },
     {
       "name": "Caleb",
       "about": "six-ish words to describe Caleb",
-      "image": "https://i.imgflip.com/1bhk.jpg"
+      "image": "https://i.imgflip.com/1bhk.jpg",
+      "donation": 0
     },
     {
       "id": "9",
       "name": "Kenneth",
       "about": "six-ish words to describe Kenneth",
-      "image": "https://i.imgflip.com/39t1o.jpg"
+      "image": "https://i.imgflip.com/39t1o.jpg",
+      "donation": 0
     },
     {
       "id": "10",
       "name": "Ben",
       "about": "six-ish words to describe Ben",
-      "image": "https://i.imgflip.com/26am.jpg"
+      "image": "https://i.imgflip.com/26am.jpg",
+      "donation": 0
     },
     {
       "id": "12",
       "name": "Ismael",
       "about": "six-ish words to describe Ismael",
-      "image": "https://i.imgflip.com/2fm6x.jpg"
+      "image": "https://i.imgflip.com/2fm6x.jpg",
+      "donation": 0
     },
     {
       "id": "12",
       "name": "Christopher",
       "about": "six-ish words to describe Ismael",
-      "image": "https://i.imgflip.com/2fm6x.jpg"
+      "image": "https://i.imgflip.com/2fm6x.jpg",
+      "donation": 0
     },
     {
       "id": "11",
       "name": "Alberto",
       "about": "six-ish words to describe Alberto",
-      "image": "https://i.imgflip.com/3l60ph.jpg"
+      "image": "https://i.imgflip.com/3l60ph.jpg",
+      "donation": 0
     },
     {
       "id": "13",
       "name": "Matthew L.",
       "about": "six-ish words to describe Matthew",
-      "image": "https://i.imgflip.com/1e7ql7.jpg"
+      "image": "https://i.imgflip.com/1e7ql7.jpg",
+      "donation": 0
     }
   ]
 }
